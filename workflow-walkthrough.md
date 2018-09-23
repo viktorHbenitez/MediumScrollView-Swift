@@ -2,5 +2,5 @@
 
 ## autolayout with scroll view and handle keyboard event 
 
-![imagen](../feature-CreateProcotolToHeaderView/assets/problem.png) 
+![imagen](../master/assets/problem.png) 
 
